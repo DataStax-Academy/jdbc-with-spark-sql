@@ -8,7 +8,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.2.13</logback.version>
 		<spring.version>5.1.9.RELEASE</spring.version>
 		<junit-jupiter.version>5.5.1</junit-jupiter.version>
 		<version.maven.plugin.compiler>3.8.1</version.maven.plugin.compiler>
